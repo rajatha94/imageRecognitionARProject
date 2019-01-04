@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="IMG_6678-2" size="0.247 0.173" />
+    <ImageTarget name="IMG_6676-2" size="0.247 0.173" />
+    <ImageTarget name="IMG_6672-2" size="0.247 0.173" />
+    <ImageTarget name="IMG_6675-2" size="0.247 0.173" />
+    <ImageTarget name="IMG_6677-2" size="0.247 0.173" />
+    <ImageTarget name="IMG_6673-2" size="0.247 0.173" />
+    <ImageTarget name="IMG_6666-2" size="0.247 0.173" />
+    <ImageTarget name="IMG_6673" size="0.247 0.173" />
+    <ImageTarget name="IMG_6676" size="0.247 0.173" />
+    <ImageTarget name="IMG" size="0.247 0.173" />
+    <ImageTarget name="IMG_6671" size="0.247 0.173" />
+    <ImageTarget name="IMG_6666" size="0.247 0.173" />
+  </Tracking>
+</QCARConfig>

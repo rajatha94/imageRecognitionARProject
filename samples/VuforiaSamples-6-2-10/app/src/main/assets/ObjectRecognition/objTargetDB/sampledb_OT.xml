@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="QCAR_Dataset_config.xsd">
+  <Tracking>
+    <ObjectTarget name="switch13" />
+    <ObjectTarget name="switch12" />
+    <ObjectTarget name="switch9" />
+  </Tracking>
+</QCARConfig>

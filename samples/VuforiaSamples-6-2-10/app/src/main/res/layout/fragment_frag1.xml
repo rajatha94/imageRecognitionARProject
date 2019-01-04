@@ -1,0 +1,12 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/light_gray"
+    android:layout_marginTop="166dp"
+    android:layout_marginBottom="45dp"
+    tools:context="com.vuforia.samples.VuforiaSamples.ui.ActivityList.frag1">
+
+    <!-- TODO: Update blank fragment layout -->
+
+</FrameLayout>

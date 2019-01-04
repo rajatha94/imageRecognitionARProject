@@ -1,0 +1,402 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\src\main\AndroidManifest.xml:2:1-154:12
+	package
+		ADDED from C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\src\main\AndroidManifest.xml:3:5-49
+		INJECTED from C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\src\main\AndroidManifest.xml:4:5-30
+		INJECTED from C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\src\main\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\src\main\AndroidManifest.xml:13:5-15:41
+MERGED from [com.android.support:appcompat-v7:25.1.0] C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.0\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.1.0] C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.0\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-compat:25.1.0] C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:25.1.0] C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.0\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-compat:25.1.0] C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.1.0] C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.0\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.1.0] C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.1.0] C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.1.0] C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-fragment:25.1.0] C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.0\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-compat:25.1.0] C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:25.1.0] C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.0\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-compat:25.1.0] C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.1.0] C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.1.0] C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.1.0] C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.0\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.1.0] C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-vector-drawable:25.1.0] C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.0\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-compat:25.1.0] C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.1.0] C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.0\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-compat:25.1.0] C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-v4:25.1.0] C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.0\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-compat:25.1.0] C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:25.1.0] C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.0\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-compat:25.1.0] C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.1.0] C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.0\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.1.0] C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.1.0] C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.1.0] C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-fragment:25.1.0] C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.0\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-compat:25.1.0] C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:25.1.0] C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.0\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-compat:25.1.0] C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.1.0] C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.1.0] C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.1.0] C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.0\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.1.0] C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:design:25.1.0] C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\build\intermediates\exploded-aar\com.android.support\design\25.1.0\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:support-v4:25.1.0] C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.0\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-compat:25.1.0] C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:25.1.0] C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.0\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-compat:25.1.0] C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.1.0] C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.0\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.1.0] C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.1.0] C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.1.0] C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-fragment:25.1.0] C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.0\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-compat:25.1.0] C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:25.1.0] C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.0\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-compat:25.1.0] C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.1.0] C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.1.0] C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.1.0] C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.0\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.1.0] C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:appcompat-v7:25.1.0] C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.0\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.1.0] C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.0\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-compat:25.1.0] C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:25.1.0] C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.0\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-compat:25.1.0] C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.1.0] C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.0\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.1.0] C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.1.0] C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.1.0] C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-fragment:25.1.0] C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.0\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-compat:25.1.0] C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:25.1.0] C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.0\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-compat:25.1.0] C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.1.0] C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.1.0] C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.1.0] C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.0\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.1.0] C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-vector-drawable:25.1.0] C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.0\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-compat:25.1.0] C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.1.0] C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.0\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-compat:25.1.0] C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:recyclerview-v7:25.1.0] C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.1.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.1.0] C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.1.0] C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.1.0] C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:transition:25.1.0] C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\build\intermediates\exploded-aar\com.android.support\transition\25.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.1.0] C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.0\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-compat:25.1.0] C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:25.1.0] C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.0\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-compat:25.1.0] C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.1.0] C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.0\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.1.0] C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.1.0] C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.1.0] C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-fragment:25.1.0] C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.0\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-compat:25.1.0] C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:25.1.0] C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.0\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-compat:25.1.0] C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.1.0] C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.1.0] C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.1.0] C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.0\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.1.0] C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.1.0] C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.0\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		ADDED from C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\src\main\AndroidManifest.xml:15:9-38
+		INJECTED from C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\src\main\AndroidManifest.xml:14:9-35
+		INJECTED from C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\src\main\AndroidManifest.xml
+uses-feature#0x00020000
+ADDED from C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\src\main\AndroidManifest.xml:17:5-54
+	android:glEsVersion
+		ADDED from C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\src\main\AndroidManifest.xml:17:19-51
+uses-feature#android.hardware.camera
+ADDED from C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\src\main\AndroidManifest.xml:33:5-60
+	android:name
+		ADDED from C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\src\main\AndroidManifest.xml:33:19-57
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\src\main\AndroidManifest.xml:36:5-65
+	android:name
+		ADDED from C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\src\main\AndroidManifest.xml:36:22-62
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\src\main\AndroidManifest.xml:39:5-67
+	android:name
+		ADDED from C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\src\main\AndroidManifest.xml:39:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\src\main\AndroidManifest.xml:45:5-79
+	android:name
+		ADDED from C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\src\main\AndroidManifest.xml:45:22-76
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\src\main\AndroidManifest.xml:46:5-80
+	android:name
+		ADDED from C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\src\main\AndroidManifest.xml:46:22-77
+android:uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\src\main\AndroidManifest.xml:48:5-89
+	android:name
+		ADDED from C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\src\main\AndroidManifest.xml:48:30-86
+android:uses-permission#android.permission.READ_PHONE_STATE
+ADDED from C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\src\main\AndroidManifest.xml:49:5-83
+	android:name
+		ADDED from C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\src\main\AndroidManifest.xml:49:30-80
+application
+ADDED from C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\src\main\AndroidManifest.xml:61:5-152:19
+MERGED from [com.android.support:appcompat-v7:25.1.0] C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.1.0] C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.0] C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.1.0] C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.0] C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.1.0] C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.0] C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.1.0] C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.0] C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.1.0] C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.0] C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.1.0] C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.0] C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.1.0] C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.0] C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.1.0] C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.0] C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-vector-drawable:25.1.0] C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.0\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-compat:25.1.0] C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.1.0] C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.0\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-compat:25.1.0] C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.1.0] C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.0] C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.1.0] C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.0] C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.1.0] C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.0] C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.1.0] C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.0] C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.1.0] C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.0] C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.1.0] C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.0] C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.1.0] C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.0] C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.1.0] C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.0] C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:design:25.1.0] C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\build\intermediates\exploded-aar\com.android.support\design\25.1.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.1.0] C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.0] C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.1.0] C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.0] C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.1.0] C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.0] C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.1.0] C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.0] C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.1.0] C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.0] C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.1.0] C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.0] C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.1.0] C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.0] C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.1.0] C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.0] C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.1.0] C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.1.0] C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.0] C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.1.0] C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.0] C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.1.0] C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.0] C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.1.0] C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.0] C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.1.0] C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.0] C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.1.0] C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.0] C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.1.0] C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.0] C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.1.0] C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.0] C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-vector-drawable:25.1.0] C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.0\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-compat:25.1.0] C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.1.0] C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.0\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-compat:25.1.0] C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.0] C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.1.0] C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.0] C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:transition:25.1.0] C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\build\intermediates\exploded-aar\com.android.support\transition\25.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:25.1.0] C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.0] C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.1.0] C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.0] C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.1.0] C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.0] C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.1.0] C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.0] C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.1.0] C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.0] C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.1.0] C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.0] C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.1.0] C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.0] C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.1.0] C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.0] C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\src\main\AndroidManifest.xml:65:9-41
+	android:hardwareAccelerated
+		ADDED from C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\src\main\AndroidManifest.xml:67:9-44
+	android:launchMode
+		ADDED from C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\src\main\AndroidManifest.xml:66:9-40
+	android:allowBackup
+		ADDED from C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\src\main\AndroidManifest.xml:62:9-35
+	android:icon
+		ADDED from C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\src\main\AndroidManifest.xml:64:9-38
+	android:description
+		ADDED from C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\src\main\AndroidManifest.xml:63:9-54
+	android:theme
+		ADDED from C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\src\main\AndroidManifest.xml:68:9-47
+activity#com.vuforia.samples.VuforiaSamples.ui.ActivityList.ActivitySplashScreen
+ADDED from C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\src\main\AndroidManifest.xml:85:9-95:20
+	android:screenOrientation
+		ADDED from C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\src\main\AndroidManifest.xml:89:13-49
+	android:noHistory
+		ADDED from C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\src\main\AndroidManifest.xml:88:13-37
+	android:configChanges
+		ADDED from C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\src\main\AndroidManifest.xml:87:13-93
+	android:name
+		ADDED from C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\src\main\AndroidManifest.xml:86:13-65
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\src\main\AndroidManifest.xml:90:13-94:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\src\main\AndroidManifest.xml:91:17-69
+	android:name
+		ADDED from C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\src\main\AndroidManifest.xml:91:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\src\main\AndroidManifest.xml:93:17-77
+	android:name
+		ADDED from C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\src\main\AndroidManifest.xml:93:27-74
+activity#com.vuforia.samples.VuforiaSamples.ui.ActivityList.AboutScreen
+ADDED from C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\src\main\AndroidManifest.xml:96:9-102:20
+	android:screenOrientation
+		ADDED from C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\src\main\AndroidManifest.xml:101:13-49
+	android:noHistory
+		ADDED from C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\src\main\AndroidManifest.xml:99:13-37
+	android:configChanges
+		ADDED from C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\src\main\AndroidManifest.xml:98:13-93
+	android:theme
+		ADDED from C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\src\main\AndroidManifest.xml:100:13-69
+	android:name
+		ADDED from C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\src\main\AndroidManifest.xml:97:13-56
+activity#com.vuforia.samples.VuforiaSamples.app.ImageTargets.ImageTargets
+ADDED from C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\src\main\AndroidManifest.xml:103:9-108:54
+	android:hardwareAccelerated
+		ADDED from C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\src\main\AndroidManifest.xml:107:13-48
+	android:launchMode
+		ADDED from C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\src\main\AndroidManifest.xml:106:13-44
+	android:configChanges
+		ADDED from C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\src\main\AndroidManifest.xml:105:13-93
+	android:theme
+		ADDED from C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\src\main\AndroidManifest.xml:108:13-51
+	android:name
+		ADDED from C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\src\main\AndroidManifest.xml:104:13-58
+activity#com.vuforia.samples.VuforiaSamples.app.VuMark.VuMark
+ADDED from C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\src\main\AndroidManifest.xml:109:9-113:54
+	android:launchMode
+		ADDED from C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\src\main\AndroidManifest.xml:112:13-44
+	android:configChanges
+		ADDED from C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\src\main\AndroidManifest.xml:111:13-93
+	android:theme
+		ADDED from C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\src\main\AndroidManifest.xml:113:13-51
+	android:name
+		ADDED from C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\src\main\AndroidManifest.xml:110:13-46
+activity#com.vuforia.samples.VuforiaSamples.app.TextRecognition.TextReco
+ADDED from C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\src\main\AndroidManifest.xml:114:9-118:54
+	android:launchMode
+		ADDED from C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\src\main\AndroidManifest.xml:117:13-44
+	android:configChanges
+		ADDED from C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\src\main\AndroidManifest.xml:116:13-93
+	android:theme
+		ADDED from C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\src\main\AndroidManifest.xml:118:13-51
+	android:name
+		ADDED from C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\src\main\AndroidManifest.xml:115:13-57
+activity#com.vuforia.samples.VuforiaSamples.app.CylinderTargets.CylinderTargets
+ADDED from C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\src\main\AndroidManifest.xml:119:9-123:54
+	android:launchMode
+		ADDED from C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\src\main\AndroidManifest.xml:122:13-44
+	android:configChanges
+		ADDED from C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\src\main\AndroidManifest.xml:121:13-93
+	android:theme
+		ADDED from C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\src\main\AndroidManifest.xml:123:13-51
+	android:name
+		ADDED from C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\src\main\AndroidManifest.xml:120:13-64
+activity#com.vuforia.samples.VuforiaSamples.app.VirtualButtons.VirtualButtons
+ADDED from C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\src\main\AndroidManifest.xml:124:9-128:54
+	android:launchMode
+		ADDED from C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\src\main\AndroidManifest.xml:127:13-44
+	android:configChanges
+		ADDED from C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\src\main\AndroidManifest.xml:126:13-93
+	android:theme
+		ADDED from C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\src\main\AndroidManifest.xml:128:13-51
+	android:name
+		ADDED from C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\src\main\AndroidManifest.xml:125:13-62
+activity#com.vuforia.samples.VuforiaSamples.app.UserDefinedTargets.UserDefinedTargets
+ADDED from C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\src\main\AndroidManifest.xml:129:9-133:54
+	android:launchMode
+		ADDED from C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\src\main\AndroidManifest.xml:132:13-44
+	android:configChanges
+		ADDED from C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\src\main\AndroidManifest.xml:131:13-93
+	android:theme
+		ADDED from C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\src\main\AndroidManifest.xml:133:13-51
+	android:name
+		ADDED from C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\src\main\AndroidManifest.xml:130:13-70
+activity#com.vuforia.samples.VuforiaSamples.app.MultiTargets.MultiTargets
+ADDED from C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\src\main\AndroidManifest.xml:134:9-138:54
+	android:launchMode
+		ADDED from C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\src\main\AndroidManifest.xml:137:13-44
+	android:configChanges
+		ADDED from C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\src\main\AndroidManifest.xml:136:13-93
+	android:theme
+		ADDED from C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\src\main\AndroidManifest.xml:138:13-51
+	android:name
+		ADDED from C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\src\main\AndroidManifest.xml:135:13-58
+activity#com.vuforia.samples.VuforiaSamples.app.CloudRecognition.CloudReco
+ADDED from C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\src\main\AndroidManifest.xml:139:9-143:54
+	android:launchMode
+		ADDED from C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\src\main\AndroidManifest.xml:142:13-44
+	android:configChanges
+		ADDED from C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\src\main\AndroidManifest.xml:141:13-93
+	android:theme
+		ADDED from C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\src\main\AndroidManifest.xml:143:13-51
+	android:name
+		ADDED from C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\src\main\AndroidManifest.xml:140:13-59
+activity#com.vuforia.samples.VuforiaSamples.app.ObjectRecognition.ObjectTargets
+ADDED from C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\src\main\AndroidManifest.xml:144:9-148:54
+	android:launchMode
+		ADDED from C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\src\main\AndroidManifest.xml:147:13-44
+	android:configChanges
+		ADDED from C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\src\main\AndroidManifest.xml:146:13-93
+	android:theme
+		ADDED from C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\src\main\AndroidManifest.xml:148:13-51
+	android:name
+		ADDED from C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\src\main\AndroidManifest.xml:145:13-64
+activity#com.vuforia.samples.VuforiaSamples.ui.ActivityList.tabs
+ADDED from C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\src\main\AndroidManifest.xml:149:9-151:68
+	android:label
+		ADDED from C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\src\main\AndroidManifest.xml:151:13-56
+	android:name
+		ADDED from C:\Users\sesa431244\Desktop\imgReco\samples\VuforiaSamples-6-2-10\app\src\main\AndroidManifest.xml:150:13-49
